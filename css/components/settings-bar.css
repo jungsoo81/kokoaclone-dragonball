@@ -1,0 +1,14 @@
+.settings-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px 0;
+}
+
+.settings-bar span {
+  font-size: 24px;
+}
+
+.settings-bar i {
+  margin: 0 12px;
+}
